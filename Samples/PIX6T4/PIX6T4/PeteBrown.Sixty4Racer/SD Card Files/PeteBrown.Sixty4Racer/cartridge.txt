@@ -1,0 +1,1 @@
+assembly:file=PeteBrown.Sixty4Racer.pe;name=PeteBrown.Sixty4Racer;version=1.0.0.0;class=PeteBrown.Sixty4Racer.Program;method=Run

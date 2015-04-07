@@ -1,0 +1,9 @@
+* NTP Server list: http://tf.nist.gov/tf-cgi/servers.cgi
+string:name=ntpServers;value=nist1-lv.ustiming.org,nist1.aol-ca.symmetricom.com,nist1.symmetricom.com,nist1-sj.ustiming.org,nist1-la.ustiming.org,utcnist.colorado.edu,utcnist2.colorado.edu,ntp-nist.ldsbc.edu
+*
+string:name=user;value=<KLOUT user name>
+string:name=key;value=<KLOUT API Key>
+string:name=host;value=api.klout.com
+string:name=port;value=80
+string:name=timeZone;value=-8
+string:name=dst;value=1

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaFruitVC0706Test", "AdaFruitVC0706Test\AdaFruitVC0706Test.csproj", "{B3B882B7-9BA7-4DF9-8CBB-F5B1147EBEF6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D15C30B3-3FDE-475F-AB25-7EA65DE56911} = {D15C30B3-3FDE-475F-AB25-7EA65DE56911}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netduino.helpers", "..\..\netduino.helpers.csproj", "{D15C30B3-3FDE-475F-AB25-7EA65DE56911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3B882B7-9BA7-4DF9-8CBB-F5B1147EBEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B882B7-9BA7-4DF9-8CBB-F5B1147EBEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B882B7-9BA7-4DF9-8CBB-F5B1147EBEF6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B3B882B7-9BA7-4DF9-8CBB-F5B1147EBEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B882B7-9BA7-4DF9-8CBB-F5B1147EBEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B882B7-9BA7-4DF9-8CBB-F5B1147EBEF6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D15C30B3-3FDE-475F-AB25-7EA65DE56911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15C30B3-3FDE-475F-AB25-7EA65DE56911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15C30B3-3FDE-475F-AB25-7EA65DE56911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15C30B3-3FDE-475F-AB25-7EA65DE56911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

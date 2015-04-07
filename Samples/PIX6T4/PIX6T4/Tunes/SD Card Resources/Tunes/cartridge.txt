@@ -1,0 +1,1 @@
+assembly:file=Tunes.pe;name=Tunes;version=1.0.0.0;class=Tunes.Program;method=Run

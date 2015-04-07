@@ -1,0 +1,1 @@
+assembly:file=StefanCo.Nomnom.pe;name=StefanCo.Nomnom;version=1.0.0.0;class=StefanCo.Nomnom.Program;method=Run

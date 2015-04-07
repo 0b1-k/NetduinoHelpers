@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetduinoPlusTouchDisplay", "NetduinoPlusTouchDisplay\NetduinoPlusTouchDisplay.csproj", "{FC95D267-D4FD-4564-8D46-F5AA55326E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nwazet.Go.Core", "Nwazet.Go.Core\Nwazet.Go.Core\Nwazet.Go.Core.csproj", "{FF43E52E-7BAD-427B-AAF4-F8C6669AFF1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nwazet.Go.Display", "Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.Display.csproj", "{ABF9DC24-2459-4142-8B8A-6947B5C2D935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC95D267-D4FD-4564-8D46-F5AA55326E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC95D267-D4FD-4564-8D46-F5AA55326E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC95D267-D4FD-4564-8D46-F5AA55326E25}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FC95D267-D4FD-4564-8D46-F5AA55326E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC95D267-D4FD-4564-8D46-F5AA55326E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC95D267-D4FD-4564-8D46-F5AA55326E25}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FF43E52E-7BAD-427B-AAF4-F8C6669AFF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF43E52E-7BAD-427B-AAF4-F8C6669AFF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF43E52E-7BAD-427B-AAF4-F8C6669AFF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF43E52E-7BAD-427B-AAF4-F8C6669AFF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF9DC24-2459-4142-8B8A-6947B5C2D935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF9DC24-2459-4142-8B8A-6947B5C2D935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF9DC24-2459-4142-8B8A-6947B5C2D935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF9DC24-2459-4142-8B8A-6947B5C2D935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
